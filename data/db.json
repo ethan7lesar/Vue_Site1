@@ -1,0 +1,69 @@
+{
+    "products": [
+        
+        {
+            "id": 1,
+            "Image":
+            "https://i.postimg.cc/Y2LSPgb2/ervo-rocks-Zam8-Tv-Eg-N5o-unsplash1.jpg",
+          "name": "Air Pods Max",
+          "price": 1000,
+          "quantity": "5"
+        },
+        {
+          "id": 2,
+          "Image":
+            "https://i.postimg.cc/nrqph4Pv/jason-leung-x-R4-JHzr69-Og-unsplash1.jpg",
+          "name": "Beats by Dr Dre",
+          "price": 600,
+          "quantity": "5"
+        },
+        {
+          "id": 3,
+          "Image": "https://i.postimg.cc/9XJRhr42/c-d-x-PDX-a-82obo-unsplash.jpg",
+          "name": "Air Pods Max",
+          "price": 1000,
+          "quantity": "5"
+        },
+        {
+          "id": 4,
+          "Image":
+            "https://i.postimg.cc/7L3fhNVC/luke-peterson-l-UMj2-Zv5-HUE-unsplash.jpg",
+          "name": "Beats by Dr Dre",
+          "price": 600,
+          "quantity":" 5"
+        },
+        {
+          "id": 5,
+          "Image":
+            "https://i.postimg.cc/q7QrtBw5/dmitry-chernyshov-m-P7a-PSUm7a-E-unsplash1.jpg",
+          "name": "MacBook Pro",
+          "price": 1200,
+          "quantity": "5"
+        },
+        {
+          "id": 6,
+          "Image":
+            "https://i.postimg.cc/d1L0wTFB/jan-vlacuha-7c-SLfi5m-WOA-unsplash1.jpg",
+          "name": "MacBook Air",
+          "price": 700,
+          "quantity": "5"
+        },
+        {
+          "id": 7,
+          "Image":
+            "https://i.postimg.cc/YSFt8Nyp/dell-2-L-0vn-Cnzc-U-unsplash.jpg",
+          "name":" MacBook Pro",
+          "price": 1200,
+          "quantity": "5"
+        },
+        {
+          "id": 8,
+          "Image":
+            "https://i.postimg.cc/zvgMYpKB/dell-8pb7-Hq539-Zw-unsplash.jpg",
+          "name": "MacBook Air",
+          "price": 700,
+          "quantity": "5"
+        }
+       
+      ]
+}
